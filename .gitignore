@@ -3,3 +3,9 @@
 .venv
 
 *.swp
+
+# config
+config.yaml
+
+# database
+runs.sc

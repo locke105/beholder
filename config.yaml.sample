@@ -1,0 +1,5 @@
+---
+host: localhost
+database: subunit2sql
+user: CHANGEME
+password: CHANGEME
